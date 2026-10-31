@@ -44,5 +44,7 @@ XLSum Dataset (English, Hindi, and Telugu).
 ## Project Repository
 The Jupyter Notebook contains the implementation of dataset preparation, model training, evaluation, and summarization.
 
-## Author
-Kishore
+## Authors
+POOJA YADAV
+KISHORE 
+VYSHNAVI 
